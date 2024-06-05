@@ -39,5 +39,8 @@ Cloner le dépôt :
 Pour lancer le bot en mode test, utilisez la commande suivante :
 
 ```bash
-    python3 ethereum dry-run
+    defi-autopilot.py ethereum dry-run
 ```
+
+## TODO
+v1.1
