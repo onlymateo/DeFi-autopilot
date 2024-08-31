@@ -1,7 +1,7 @@
 v1.0
 # DeFi autopilot
 ## Description
-Ce projet est un bot de sniper en Python utilisant l'API de DEXTools pour récupérer des tokens et leurs adresses, et utilisant IsRug pour vérifier si ce ne sont pas des scams (rug pulls). Le projet est réalisé en collaboration avec @rayananas.
+Ce projet est un algorythme de sniper en Python utilisant l'API de DEXTools pour récupérer des tokens (cryptomonnaies) et leurs adresses, et utilisant IsRug pour noter leur fiabilité et éviter les anarques. Le projet est réalisé en collaboration avec @rayananas.
 
 
 
